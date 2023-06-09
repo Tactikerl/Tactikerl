@@ -4,7 +4,7 @@
 - 🌱 I’ve just graduated from Noroff School of Technology and Digital Media with a vocational degree in Front End Development. I learned HTML, CSS, JavaScript, React, Web Accessibility and Design Principles among many other things relevant to the stack over 2 years, and i'm eager to learn more.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tactikerl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tactikerl)](https://github.com/tactikerl/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tactikerl&layout=compact)](https://github.com/tactikerl/github-readme-stats)
  
