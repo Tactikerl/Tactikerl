@@ -1,12 +1,10 @@
+# :wave: Hey! I'm Karl-Morten, thanks for stopping by.
+
+- 🔭 I'm currently a Junior Front End Developer looking for work and to explore and learn about the world of web development.
+- 🌱 I’ve just graduated from Noroff School of Technology and Digital Media with a vocational degree in Front End Development. I learned HTML, CSS, JavaScript, React, Web Accessibility and Design Principles among many other things relevant to the stack over 2 years, and i'm eager to learn more.
 
 
-- 🔭 I'm currently studying Front End Development online at Noroff.
-- 🌱 I’m currently learning HTML, CSS, JavaScript React and more.
-- 📫 How to reach me: Carrier Pigeon or by email: karlmkvammen@hotmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The real name for a hashtag is an octothorpe. The 'octo' refers to the eight points in the symbol, but according to the Merriam-Webster dictionary the 'thorpe' part is a mystery.
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tactikerl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-  Other than that there is not much else to mention. If you have any questions you can shoot me an email :)
+ 
